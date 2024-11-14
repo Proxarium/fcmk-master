@@ -1,0 +1,4 @@
++ typescript@4.4.4
+added 1 package from 1 contributor, removed 2 packages and audited 1072 packages in 8.836s
+found 16 vulnerabilities (4 moderate, 12 high)
+  run `npm audit fix` to fix them, or `npm audit` for details

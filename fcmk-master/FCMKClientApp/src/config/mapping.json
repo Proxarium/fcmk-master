@@ -1,0 +1,36 @@
+{
+    "components": {
+        "CheckBox": {
+            "meta": {},
+            "parameters": {
+                "width": {
+                  "type": 5000
+                },
+                "height": {
+                  "type": "number"
+                }
+            },
+            "appearances": {
+                "default": {
+                    "mapping": {
+                        "width": 26,
+                        "height": 26,
+                        "borderRadius": 3,
+                        "borderWidth": "border-width",
+                        "outlineWidth": 32,
+                        "outlineHeight": 32,
+                        "outlineBorderRadius": 6,
+                        "outlineBackgroundColor": "transparent",
+                        "textFontSize": 20,
+                        "textFontWeight": "text-subtitle-2-font-weight",
+                        "textFontFamily": "text-subtitle-2-font-family",
+                        "textMarginHorizontal": 12,
+                        "iconWidth": 12,
+                        "iconHeight": 12,
+                        "iconTintColor": "transparent"
+                    }
+                }
+            }
+        }
+    }
+}
